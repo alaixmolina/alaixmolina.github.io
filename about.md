@@ -11,7 +11,11 @@ Errores comunes y cómo solucionarlos.
 ¿En qué estoy enfocado ahora?
 
 🐧 Certificaciones: Preparándome para el RHCSA y LPIC-1, dos pilares fundamentales en el mundo de Linux.
+
 🤖 Automatización con Ansible: Simplificando tareas repetitivas y mejorando la eficiencia en entornos complejos.
+
 🐋 Kubernetes y Docker: Aprendiendo a orquestar contenedores y desplegar aplicaciones escalables.
+
 🖥️ Proxmox: Explorando virtualización y gestión de entornos híbridos.
+
 ¿Tienes alguna duda, sugerencia o quieres colaborar? Escríbeme por LinkedIn.
